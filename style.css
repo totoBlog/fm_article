@@ -91,6 +91,7 @@ h3 {
     width:70%;
     text-align: center;
     align-items: center;
+    margin: auto;
   }
 
   .grid1 {
@@ -112,7 +113,7 @@ h3 {
     margin-left: 0;
     width: 280px;
     margin: auto;
-    margin-top: -3px;
+    margin-top: -5px;
     padding: 2% 5%;
   }
 
